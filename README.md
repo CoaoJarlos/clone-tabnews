@@ -1,2 +1,2 @@
 # clone-tabnews
-Repositório para estudar programação
+Repositório para estudar programação web
